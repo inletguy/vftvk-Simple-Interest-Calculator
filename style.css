@@ -1,12 +1,11 @@
 body {
     background-color:black;
     font-family:arial;
-    color:white;
+    color:white
 }
 h1{
     color:grey;
-    font-family:verdana;
-    text-align:center;
+    font-family:verdana
 }
 .maindiv{
     background-color:white;
@@ -14,7 +13,9 @@ h1{
     width:300px;
     padding:20px;
     border-radius:25px;
-    margin-right:auto;
-    margin-left:auto;
+    align:center
 }
-
+.resultdiv{
+    background: #ffff99;
+    color: #000000
+}
